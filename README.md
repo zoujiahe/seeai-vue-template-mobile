@@ -2,6 +2,9 @@
 
 恒企SEEAI平台前端项目开发的通用vue3应用mobile模板([6+通用模板源](https://gitee.com/xccjh-zjh))
 
+属于seeai技术转型方案的一部分：
+
+![](https://oss.xccjh.top/vuebloger/img/post/Snipaste_2021-06-15_16-57-39.png)
 
 ## 技术栈
 [vue3](https://v3.cn.vuejs.org/)+[typescript](https://www.tslang.cn/)+[vant](https://vant-contrib.gitee.io/vant/v3/#/zh-CN/quickstart#fang-shi-yi.-tong-guo-babel-cha-jian-an-xu-yin-ru-zu-jian)+ [ckeditor5-xccjh](https://gitee.com/xccjh/ckeditor5-xccjh) + [vue3-theme-peel](https://gitee.com/xccjh/vue3-theme-peel) + 
